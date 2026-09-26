@@ -1,0 +1,24 @@
+[
+  {
+    "telegramId": 7338916279,
+    "telegramUsername": "zeetasi",
+    "panelUsername": "zeetasi",
+    "panelEmail": "user_7338916279_1786166637501@panel.bot",
+    "pteroUserId": 3,
+    "serverId": 2,
+    "identifier": "81d4944b",
+    "uuid": "81d4944b-c0b9-4558-87b8-dcaa76038fb3",
+    "serverName": "zeetasi-Egg WhatsApp Bot",
+    "eggId": "5_16",
+    "eggName": "Egg WhatsApp Bot",
+    "packageId": 6,
+    "packageName": "Unlimited",
+    "ram": 0,
+    "cpu": 0,
+    "disk": 0,
+    "node": 1,
+    "panelUrl": "https://panellll.zeetasi.qzz.io",
+    "createdAt": "2026-08-08T05:23:57.766Z",
+    "status": "active"
+  }
+]

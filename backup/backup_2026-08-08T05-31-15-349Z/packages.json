@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "1 GB",
+    "ram": 1024,
+    "cpu": 50,
+    "disk": 1024,
+    "swap": 0,
+    "io": 500,
+    "oomKiller": true,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "2 GB",
+    "ram": 2048,
+    "cpu": 75,
+    "disk": 2048,
+    "swap": 0,
+    "io": 500,
+    "oomKiller": true,
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "3 GB",
+    "ram": 3072,
+    "cpu": 100,
+    "disk": 3072,
+    "swap": 0,
+    "io": 500,
+    "oomKiller": true,
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "4 GB",
+    "ram": 4096,
+    "cpu": 150,
+    "disk": 4096,
+    "swap": 0,
+    "io": 500,
+    "oomKiller": true,
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "5 GB",
+    "ram": 5120,
+    "cpu": 200,
+    "disk": 5120,
+    "swap": 0,
+    "io": 500,
+    "oomKiller": true,
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Unlimited",
+    "ram": 0,
+    "cpu": 0,
+    "disk": 0,
+    "swap": 0,
+    "io": 500,
+    "oomKiller": true,
+    "active": true,
+    "ownerOnly": true
+  }
+]

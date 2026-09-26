@@ -1,0 +1,41 @@
+[
+  {
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "firstName": "Zeetasi",
+    "role": "user",
+    "joinedAt": "2026-08-06T11:04:16.715Z",
+    "claimCount": 1,
+    "referralCode": "REF7338916279",
+    "referredBy": null,
+    "referralPoints": 0,
+    "shareCount": 5,
+    "lastActive": "2026-08-08T05:31:14.969Z"
+  },
+  {
+    "telegramId": 7895289556,
+    "username": "Waleesibga",
+    "firstName": "Anak Polos",
+    "role": "user",
+    "joinedAt": "2026-08-06T11:15:34.184Z",
+    "claimCount": 0,
+    "referralCode": "REF7895289556",
+    "referredBy": null,
+    "referralPoints": 0,
+    "shareCount": 0,
+    "lastActive": "2026-08-07T00:34:34.739Z"
+  },
+  {
+    "telegramId": 7362655043,
+    "username": "Niskuwewe",
+    "firstName": "Nisku",
+    "role": "user",
+    "joinedAt": "2026-08-06T15:41:04.521Z",
+    "claimCount": 0,
+    "referralCode": "REF7362655043",
+    "referredBy": null,
+    "referralPoints": 0,
+    "shareCount": 0,
+    "lastActive": "2026-08-08T05:15:27.238Z"
+  }
+]

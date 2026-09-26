@@ -1,0 +1,51 @@
+[
+  {
+    "type": "rate_limit",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Rate limit exceeded: 21 requests in 60s",
+    "timestamp": "2026-08-08T05:32:02.474Z"
+  },
+  {
+    "type": "rate_limit",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Rate limit exceeded: 22 requests in 60s",
+    "timestamp": "2026-08-08T05:32:05.562Z"
+  },
+  {
+    "type": "rate_limit",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Rate limit exceeded: 23 requests in 60s",
+    "timestamp": "2026-08-08T05:32:07.872Z"
+  },
+  {
+    "type": "rate_limit",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Rate limit exceeded: 24 requests in 60s",
+    "timestamp": "2026-08-08T05:32:09.521Z"
+  },
+  {
+    "type": "rate_limit",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Rate limit exceeded: 25 requests in 60s",
+    "timestamp": "2026-08-08T05:32:11.501Z"
+  },
+  {
+    "type": "rate_limit",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Rate limit exceeded: 26 requests in 60s",
+    "timestamp": "2026-08-08T05:32:13.452Z"
+  },
+  {
+    "type": "rate_limit",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Rate limit exceeded: 27 requests in 60s",
+    "timestamp": "2026-08-08T05:32:14.788Z"
+  }
+]

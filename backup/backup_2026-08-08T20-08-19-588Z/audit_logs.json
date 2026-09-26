@@ -1,0 +1,261 @@
+[
+  {
+    "type": "sync_eggs",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Read 15 eggs directly from panel",
+    "timestamp": "2026-08-07T00:28:33.561Z"
+  },
+  {
+    "type": "manual_backup",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "backup_2026-08-07T00-30-24-142Z",
+    "timestamp": "2026-08-07T00:30:24.536Z"
+  },
+  {
+    "type": "toggle_maintenance",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Maintenance: true",
+    "timestamp": "2026-08-07T00:33:15.185Z"
+  },
+  {
+    "type": "sync_eggs",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Read 15 eggs directly from panel",
+    "timestamp": "2026-08-07T00:35:06.747Z"
+  },
+  {
+    "type": "toggle_maintenance",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Maintenance: true",
+    "timestamp": "2026-08-07T00:35:42.326Z"
+  },
+  {
+    "type": "toggle_maintenance",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Maintenance: false",
+    "timestamp": "2026-08-07T00:35:46.789Z"
+  },
+  {
+    "type": "toggle_maintenance",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Maintenance: true",
+    "timestamp": "2026-08-07T00:35:55.689Z"
+  },
+  {
+    "type": "toggle_emergency",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Emergency: true",
+    "timestamp": "2026-08-07T00:37:29.030Z"
+  },
+  {
+    "type": "restart_bot",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Bot restarted by owner",
+    "timestamp": "2026-08-07T00:38:59.789Z"
+  },
+  {
+    "type": "create_server",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Server 2 created",
+    "timestamp": "2026-08-08T05:23:57.770Z"
+  },
+  {
+    "type": "server_start",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Action start on server 2",
+    "timestamp": "2026-08-08T05:24:37.457Z"
+  },
+  {
+    "type": "server_suspend",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Action suspend on server 2",
+    "timestamp": "2026-08-08T05:25:00.305Z"
+  },
+  {
+    "type": "server_unsuspend",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Action unsuspend on server 2",
+    "timestamp": "2026-08-08T05:25:17.595Z"
+  },
+  {
+    "type": "server_reinstall",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Action reinstall on server 2",
+    "timestamp": "2026-08-08T05:25:30.535Z"
+  },
+  {
+    "type": "sync_eggs",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Read 16 eggs directly from panel",
+    "timestamp": "2026-08-08T05:26:08.636Z"
+  },
+  {
+    "type": "sync_eggs",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Read 16 eggs directly from panel",
+    "timestamp": "2026-08-08T05:26:13.272Z"
+  },
+  {
+    "type": "add_blacklist",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Blacklisted 7338916279: Dilaporkan oleh admin",
+    "timestamp": "2026-08-08T05:26:25.798Z"
+  },
+  {
+    "type": "manual_backup",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "backup_2026-08-08T05-31-15-349Z",
+    "timestamp": "2026-08-08T05:31:15.707Z"
+  },
+  {
+    "type": "delete_server",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Deleted server 2",
+    "timestamp": "2026-08-08T05:31:45.597Z"
+  },
+  {
+    "type": "add_reseller",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Added reseller 5568403525",
+    "timestamp": "2026-08-08T06:33:29.052Z"
+  },
+  {
+    "type": "add_reseller",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Added reseller 7338916279",
+    "timestamp": "2026-08-08T06:38:48.955Z"
+  },
+  {
+    "type": "add_premium",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Added premium to 7338916279",
+    "timestamp": "2026-08-08T06:38:51.054Z"
+  },
+  {
+    "type": "sync_eggs",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Read 2 eggs directly from panel",
+    "timestamp": "2026-08-08T06:41:37.870Z"
+  },
+  {
+    "type": "create_server",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Server 3 created",
+    "timestamp": "2026-08-08T06:43:05.905Z"
+  },
+  {
+    "type": "delete_server",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Deleted server 3",
+    "timestamp": "2026-08-08T06:55:41.973Z"
+  },
+  {
+    "type": "broadcast",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Target: all, Sent: 5, Failed: 0",
+    "timestamp": "2026-08-08T06:57:42.217Z"
+  },
+  {
+    "type": "add_reseller",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Added reseller 5568403525",
+    "timestamp": "2026-08-08T06:59:04.887Z"
+  },
+  {
+    "type": "create_server",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Server 4 created",
+    "timestamp": "2026-08-08T07:52:47.387Z"
+  },
+  {
+    "type": "sync_eggs",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Read 2 eggs directly from panel",
+    "timestamp": "2026-08-08T12:20:56.246Z"
+  },
+  {
+    "type": "sync_eggs",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Read 2 eggs directly from panel",
+    "timestamp": "2026-08-08T12:21:00.554Z"
+  },
+  {
+    "type": "delete_server",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Deleted server 4",
+    "timestamp": "2026-08-08T13:24:03.888Z"
+  },
+  {
+    "type": "broadcast",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Target: all, Sent: 6, Failed: 0",
+    "timestamp": "2026-08-08T13:25:17.191Z"
+  },
+  {
+    "type": "toggle_emergency",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Emergency: true",
+    "timestamp": "2026-08-08T13:26:16.108Z"
+  },
+  {
+    "type": "toggle_emergency",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Emergency: false",
+    "timestamp": "2026-08-08T13:29:37.178Z"
+  },
+  {
+    "type": "add_reseller",
+    "telegramId": 7338916279,
+    "username": "zeetasi",
+    "detail": "Added reseller 8808026214",
+    "timestamp": "2026-08-08T13:31:29.474Z"
+  },
+  {
+    "type": "create_server",
+    "telegramId": 8808026214,
+    "username": "zikuotapay",
+    "detail": "Server 5 created",
+    "timestamp": "2026-08-08T13:33:32.046Z"
+  },
+  {
+    "type": "create_server",
+    "telegramId": 8717523319,
+    "username": "gacorpediastoreadmin",
+    "detail": "Server 6 created",
+    "timestamp": "2026-08-08T16:05:01.751Z"
+  }
+]

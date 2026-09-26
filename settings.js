@@ -4,7 +4,7 @@ require('dotenv').config();
 
 const settings = {
   // ── Bot Configuration ──────────────────────────────────────────────────────
-  botToken: process.env.BOT_TOKEN || '8194599694:AAGx9dRZMFER1n4hixHRIdR3e7x8V9hQ9dU',
+  botToken: process.env.BOT_TOKEN || '8194599694:AAGJlc89LNOAurUX0YMhimZtsax24u_EPfc',
   botName: process.env.BOT_NAME || 'Panel Bot',
   botVersion: process.env.BOT_VERSION || '1.0.0',
   ownerUsername: process.env.OWNER_USERNAME || 'zeetasi',
